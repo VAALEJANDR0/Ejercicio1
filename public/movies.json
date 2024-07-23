@@ -1,0 +1,13 @@
+[
+    { "nombre": "Super Mario Bros. La película", "precio": 19.98 },
+    { "nombre": "Toy Story", "precio": 15.99 },
+    { "nombre": "Avengers: Endgame", "precio": 25.00 },
+    { "nombre": "Frozen", "precio": 10.00 },
+    { "nombre": "El Rey León", "precio": 12.00 },
+    { "nombre": "Inception", "precio": 18.50 },
+    { "nombre": "Titanic", "precio": 20.00 },
+    { "nombre": "Jurassic Park", "precio": 15.00 },
+    { "nombre": "The Matrix", "precio": 14.00 },
+    { "nombre": "Buscando a Nemo", "precio": 11.50 }
+  ]
+  
